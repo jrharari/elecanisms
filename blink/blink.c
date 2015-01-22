@@ -23,5 +23,3 @@ int16_t main(void) {
     }
 }
 
-hi
-
